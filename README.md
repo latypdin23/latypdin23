@@ -1,5 +1,7 @@
-### Для студентов <uim-rocket class="text-3xl text-red-400 mx-2" />
-####  👋 Ниже расположены задания для обучения 🌱
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA1NTNkOWFlMzY3MjgwYjE2YWZkYjlhOGY4Njc4NmJlMjc5NzJiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### Для студентов 👋
 #### Технологии программирования ⚡
 1.	Обзор языка C#
 2.	Типы данных
