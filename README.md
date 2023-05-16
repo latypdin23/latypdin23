@@ -2,6 +2,7 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="100"/>
 </div>
+
 #### Технологии программирования ⚡
 1.	Обзор языка C#
 2.	Типы данных
