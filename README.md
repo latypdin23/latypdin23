@@ -73,8 +73,8 @@
 6. Логирование
 7. Тестирование
 Проектная работа
-#### Связь со мной
-💬 https://t.me/latypdin
+
+---
 <!--
 **latypdin23/latypdin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
