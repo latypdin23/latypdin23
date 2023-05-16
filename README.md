@@ -1,7 +1,14 @@
-### Для студентов 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="100"/>
 </div>
+
+### Для студентов 👋
 
 #### Технологии программирования ⚡
 1.	Обзор языка C#
