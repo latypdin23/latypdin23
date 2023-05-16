@@ -1,3 +1,4 @@
+### Для студентов <uim-rocket class="text-3xl text-red-400 mx-2" />
 ####  👋 Ниже расположены задания для обучения 🌱
 #### Технологии программирования ⚡
 1.	Обзор языка C#
@@ -23,7 +24,6 @@
 7. Тестирование
 Проектная работа
 #### Связь со мной
-https://img.shields.io/badge/Telegram-blue
 💬 https://t.me/latypdin
 <!--
 **latypdin23/latypdin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
