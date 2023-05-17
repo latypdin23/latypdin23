@@ -60,10 +60,10 @@
     + [Умножение матриц:массив и LinkedList](https://github.com/latypdin23/MatrixMultiplication)
 6.	Основы ООП
 7.	Взаимодействие типов
-8.	Создание и удаление объектов](https://github.com/latypdin23/GarbageCollector
+8.	Создание и удаление объектов
     + [Сборщик мусора](https://github.com/latypdin23/GarbageCollector)
 9.	Наследование
-    + [Стратегия](https://github.com/latypdin23/StrategyPattern)
+    + [Паттерны: Стратегия, Singleton]([https://github.com/latypdin23/StrategyPattern](https://github.com/latypdin23/Patterns))
 10.	Операции, делегаты, события
 11.	Отношения между классами и объектами
 12.	Свойства, индексаторы и атрибуты
