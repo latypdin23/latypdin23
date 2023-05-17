@@ -57,6 +57,7 @@
 4.	Методы и операторы
 5.	Массивы и коллекции
     + [Графы](https://github.com/latypdin23/Graph) 
+    + [Умножение матриц:массив и LinkedList](https://github.com/latypdin23/MatrixMultiplication)
 6.	Основы ООП
 7.	Взаимодействие типов
 8.	[Создание и удаление объектов](https://github.com/latypdin23/GarbageCollector)
