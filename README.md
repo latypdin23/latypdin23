@@ -63,6 +63,7 @@
 8.	Создание и удаление объектов](https://github.com/latypdin23/GarbageCollector
     + [Сборщик мусора](https://github.com/latypdin23/GarbageCollector)
 9.	Наследование
+    + [Стратегия](https://github.com/latypdin23/StrategyPattern)
 10.	Операции, делегаты, события
 11.	Отношения между классами и объектами
 12.	Свойства, индексаторы и атрибуты
