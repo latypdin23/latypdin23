@@ -59,7 +59,7 @@
 6.	Основы ООП
 7.	Взаимодействие типов
 8.	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-9.	[![Создание и удаление объектов] (https://github.com/latypdin23/GarbageCollector)](https://github.com/latypdin23/GarbageCollector)
+9.	[Создание и удаление объектов](https://github.com/latypdin23/GarbageCollector)
 10.	Наследование
 11.	Операции, делегаты, события
 12.	Отношения между классами и объектами
