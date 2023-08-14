@@ -101,8 +101,8 @@
     + Сопоставление технического задания с продуктом.
 ---
 
-### 📚 КФУ:
-1. [Рост аксона](https://github.com/latypdin23/AxonGrowth) 
+### :mortar_board: КФУ:
+1. Уравнения для роста аксона: [Рост аксона](https://github.com/latypdin23/Axon-Growth)
 <!--
 **latypdin23/latypdin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
