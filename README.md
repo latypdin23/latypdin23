@@ -100,6 +100,9 @@
     + Автоматическое тестирование: unit tests;
     + Сопоставление технического задания с продуктом.
 ---
+
+### 📚 КФУ:
+1. [Рост аксона](https://github.com/latypdin23/AxonGrowth) 
 <!--
 **latypdin23/latypdin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
